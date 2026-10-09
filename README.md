@@ -1,10 +1,10 @@
-# When Workforce Well-Being Shapes Project Performance
+# Human-Centric Optimization of Workforce Planning under Fatigue and Absenteeism
 
 Saeed Aramesh, Babak Abbasi, Ron Wakefield (RMIT University) and Hossein Piri (Haskayne School of Business, University of Calgary).
 
 Working paper, prepared for submission to *Production and Operations Management*.
 
-- [Download the PDF](Workforce_WellBeing_Project_Performance.pdf)
+- [Download the PDF](Human_Centric_Workforce_Planning_Fatigue_Absenteeism.pdf)
 
 ## Abstract
 
