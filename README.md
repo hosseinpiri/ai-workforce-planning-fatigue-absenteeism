@@ -1,10 +1,10 @@
-# Human-Centric Optimization of Workforce Scheduling under Fatigue and Absenteeism
+# Human-Centric Optimization of Workforce Scheduling under Fatigue
 
 Saeed Aramesh, Babak Abbasi, Ron Wakefield (RMIT University) and Hossein Piri (Haskayne School of Business, University of Calgary).
 
 Working paper, prepared for submission to *Production and Operations Management*.
 
-- [Download the PDF](Human_Centric_Workforce_Scheduling_Fatigue_Absenteeism.pdf)
+- [Download the PDF](Human_Centric_Workforce_Scheduling_Fatigue.pdf)
 
 ## Abstract
 
